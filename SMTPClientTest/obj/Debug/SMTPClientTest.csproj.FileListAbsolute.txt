@@ -1,0 +1,9 @@
+D:\POC\SMTPClientTest\SMTPClientTest\bin\Debug\SMTPClientTest.exe.config
+D:\POC\SMTPClientTest\SMTPClientTest\obj\Debug\SMTPClientTest.csprojResolveAssemblyReference.cache
+D:\POC\SMTPClientTest\SMTPClientTest\obj\Debug\SMTPClientTest.FrmMain.resources
+D:\POC\SMTPClientTest\SMTPClientTest\obj\Debug\SMTPClientTest.Properties.Resources.resources
+D:\POC\SMTPClientTest\SMTPClientTest\obj\Debug\SMTPClientTest.csproj.GenerateResource.Cache
+D:\POC\SMTPClientTest\SMTPClientTest\bin\Debug\SMTPClientTest.exe
+D:\POC\SMTPClientTest\SMTPClientTest\bin\Debug\SMTPClientTest.pdb
+D:\POC\SMTPClientTest\SMTPClientTest\obj\Debug\SMTPClientTest.exe
+D:\POC\SMTPClientTest\SMTPClientTest\obj\Debug\SMTPClientTest.pdb
